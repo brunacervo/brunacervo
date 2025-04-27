@@ -1,17 +1,17 @@
 <div class="my-skills" align="left">
-  <h3> 🚀 Learning: </h3>
+  <h2> 🚀 Learning: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=arduino,azure,c&perline=4" />
     </a>
   </p>
-  <h3> 🎯 Skills: </h3>
+  <h2> 🎯 Skills: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,r,java,html,qt,sklearn,selenium,flask,tensorflow,&perline=4" />
     </a>
   </p>
-  <h3> 🛠️ Tools: </h3>
+  <h2> 🛠️ Tools: </h2>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,&perline=4" />
@@ -20,7 +20,7 @@
 </div>
 
 <div class="contact-me" align="left">
-  <h3> Contact me: </h3>
+  <h2> Contact me: </h2>
   <p align="left">
     <a href="https://www.linkedin.com/in/brunacervo/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
